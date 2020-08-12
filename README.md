@@ -6,10 +6,7 @@ TTT 2020 Jeju
 * 소스 파일 디렉터리/파일 path  
 ```python
 DATAPATH = '/content/drive/My Drive/Mask_Detector/dataset/'
-
 MASKPATH = '/content/drive/My Drive/Mask_Detector/dataset/with_mask/'
-
 NOMASKPATH = '/content/drive/My Drive/Mask_Detector/dataset/without_mask/'
-
 TESTPATH = '/content/drive/My Drive/Mask_Detector/testdataset'
 ```
