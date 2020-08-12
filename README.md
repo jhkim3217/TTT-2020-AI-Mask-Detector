@@ -10,3 +10,4 @@ MASKPATH = '/content/drive/My Drive/Mask_Detector/dataset/with_mask/'
 NOMASKPATH = '/content/drive/My Drive/Mask_Detector/dataset/without_mask/'
 TESTPATH = '/content/drive/My Drive/Mask_Detector/testdataset'
 ```
+Happy Coding!
