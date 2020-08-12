@@ -1,7 +1,7 @@
 # TTT-2020-AI-Mask-Detetcor
 TTT 2020 Jeju 
 
-*  디렉터리를 구글 드라이브 / 에 copy 하시면 됩니다. 
+*  Directory를 구글 드라이브 / 에 copy 하시면 됩니다. 
 
 * 소스 Direcrory/File path  
 ```python
