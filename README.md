@@ -1,4 +1,4 @@
-# TTT-2020-AI-Mask-Detetcor
+# TTT-2020-AI-Mask-Detector
 TTT 2020 Jeju 
 
 * Mask_Detector Directory를 구글 드라이브 / 에 copy 하시면 됩니다. 
